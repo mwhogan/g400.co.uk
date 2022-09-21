@@ -39,18 +39,7 @@ export default function MainLinks() {
   return (
     <React.Fragment>
       <Typography>
-        Available on g400.co.uk:
-      </Typography>
-      <List>
-        <ListItemButton component="a" href="https://g400.co.uk/cantabits/">
-          <ListItemIcon>
-            <ArticleIcon />
-          </ListItemIcon>
-          <ListItemText primary="Cantabits (my blog)" primaryTypographyProps={linkTypographyProps} />
-        </ListItemButton>
-      </List>
-      <Typography>
-        Elsewhere on the Internet:
+        Active:
       </Typography>
       <List>
         <ListItemButton component="a" href="https://github.com/mwhogan">
@@ -73,7 +62,7 @@ export default function MainLinks() {
         </ListItemButton>
       </List>
       <Typography>
-        Archive:
+        Archived:
       </Typography>
       <List>
       <ListItemButton onClick={handleZeusClick}>
@@ -158,6 +147,12 @@ export default function MainLinks() {
           </ListItemButton>
         </List>
       </Collapse>
+        <ListItemButton component="a" href="https://g400.co.uk/cantabits/">
+          <ListItemIcon>
+            <ArticleIcon />
+          </ListItemIcon>
+          <ListItemText primary="Cantabits" primaryTypographyProps={linkTypographyProps} />
+        </ListItemButton>
         <ListItemButton component="a" href="https://g400.co.uk/cam/">
           <ListItemIcon>
             <SchoolIcon />
