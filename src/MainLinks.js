@@ -78,7 +78,7 @@ export default function MainLinks() {
       <List>
       <ListItemButton onClick={handleZeusClick}>
         <ListItemIcon>
-          <ElectricBoltIcon />
+          <ElectricBoltIcon sx={{ transform: 'scaleX(-1)' }} />
         </ListItemIcon>
         <ListItemText primary="Zeus Technology"
           secondary={
