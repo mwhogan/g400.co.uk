@@ -5,6 +5,7 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import Collapse from '@mui/material/Collapse';
 import ArticleIcon from '@mui/icons-material/Article';
+import ChatIcon from '@mui/icons-material/Chat';
 import CloudIcon from '@mui/icons-material/Cloud';
 import CloudSyncIcon from '@mui/icons-material/CloudSync';
 import DevicesIcon from '@mui/icons-material/Devices';
@@ -19,7 +20,6 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import SchoolIcon from '@mui/icons-material/School';
 import ShieldIcon from '@mui/icons-material/Shield';
 import SmartphoneIcon from '@mui/icons-material/Smartphone';
-import TwitterIcon from '@mui/icons-material/Twitter';
 import VpnLockIcon from '@mui/icons-material/VpnLock';
 import Typography from '@mui/material/Typography';
 
@@ -54,11 +54,11 @@ export default function MainLinks() {
           </ListItemIcon>
           <ListItemText primary="LinkedIn" primaryTypographyProps={linkTypographyProps} />
         </ListItemButton>
-        <ListItemButton component="a" href="https://twitter.com/g400_pub">
+        <ListItemButton component="a" rel="me" href="https://mastodon.ie/@g400">
           <ListItemIcon>
-            <TwitterIcon />
+            <ChatIcon />
           </ListItemIcon>
-          <ListItemText primary="Twitter" primaryTypographyProps={linkTypographyProps} />
+          <ListItemText primary="Mastodon" primaryTypographyProps={linkTypographyProps} />
         </ListItemButton>
       </List>
       <Typography>
