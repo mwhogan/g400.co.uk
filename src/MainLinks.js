@@ -54,7 +54,7 @@ export default function MainLinks() {
           </ListItemIcon>
           <ListItemText primary="LinkedIn" primaryTypographyProps={linkTypographyProps} />
         </ListItemButton>
-        <ListItemButton component="a" rel="me" href="https://mastodon.ie/@g400">
+        <ListItemButton component="a" href="https://mastodon.ie/@g400">
           <ListItemIcon>
             <ChatIcon />
           </ListItemIcon>
