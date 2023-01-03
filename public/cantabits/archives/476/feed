@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: HTC One X: two months on&#8230;	</title>
+	<atom:link href="https://www.g400.co.uk/cantabits/archives/476/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.g400.co.uk/cantabits/archives/476</link>
+	<description>Bits from a Cantab...</description>
+	<lastBuildDate>Sun, 17 Mar 2013 14:44:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: Mark		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-107</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2013 14:44:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-107</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.g400.co.uk/cantabits/archives/476#comment-106&quot;&gt;Verda&lt;/a&gt;.
+
+I have several steps for you, and explanations if you&#039;re interested:
+1. Try restarting your phone. This does mean that you should use the &quot;Restart&quot; option that shows when you hold the power button - the &quot;Power off&quot; option is unsuitable as it does something similar to the hibernate option on a computer, so the phone can start faster. You should check to see if problem is fixed once you have restarted your device. Explanation: it&#039;s possible that an app or driver may be malfunctioning in such a way that a lot of power is being used - virtually all software has rarely-encountered bugs. The &quot;Power off&quot; option may save the malfunctioning state of the app or driver, ensuring that it resumes with the same bug - this is why the &quot;Restart&quot; option is necessary.
+2. If you have any other mobile devices with microUSB ports or you have any other microUSB chargers, try using a different charger with your One X and/or try using your One X&#039;s charger with a different device. If you find that the One X charges correctly with another charger or another device fails to charge correctly with your One X&#039;s charger, your One X&#039;s charger needs replacing. Explanation: it&#039;s always possible that a power surge damaged the transformer in the plug or something heavy left on the cable may have damaged it. Of course, the charger would have undergone less testing and fewer quality checks too as it is worth far less than your One X.
+3. Try turning off some wireless connectivity (e.g. Wi-Fi, Wi-Fi hotspot, mobile data, GPS) and other power-hungry options. As you probably saw in the post above, I managed to get the current required to exceed the current provided by the charger simply by watching iPlayer over 3G and outputting this via a MHL adapter, which also required the phone&#039;s screen to stay on. Explanation: the One X can use power at the faster rate than the charger can provide it - with great power comes great responsibility! As we&#039;ve both observed, it doesn&#039;t appear to use the charger&#039;s power at all if it is insufficient.
+4. As an emergency measure to bring your phone back to life if none of the above works or is possible, try charging your phone while it is off. If it takes a very long time to reach the state where it is fully charged then the problem should be covered by point 2 above or 5 below.
+5. If you&#039;ve exhausted these options, your One X may have developed a physical fault that requires repair. I know that if you&#039;re in the EU, you&#039;ll have a two year warranty during which repairs like this will be free. If you&#039;re outside the EU, I think HTC provides a one year warranty (so you should still be able to get it repaired for free!) - but you should check for your specific region &lt;a href=&quot;https://support.htc.com/alerts_downloads/en/Warranty_Policy&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.g400.co.uk/cantabits/archives/476#comment-106">Verda</a>.</p>
+<p>I have several steps for you, and explanations if you&#8217;re interested:<br />
+1. Try restarting your phone. This does mean that you should use the &#8220;Restart&#8221; option that shows when you hold the power button &#8211; the &#8220;Power off&#8221; option is unsuitable as it does something similar to the hibernate option on a computer, so the phone can start faster. You should check to see if problem is fixed once you have restarted your device. Explanation: it&#8217;s possible that an app or driver may be malfunctioning in such a way that a lot of power is being used &#8211; virtually all software has rarely-encountered bugs. The &#8220;Power off&#8221; option may save the malfunctioning state of the app or driver, ensuring that it resumes with the same bug &#8211; this is why the &#8220;Restart&#8221; option is necessary.<br />
+2. If you have any other mobile devices with microUSB ports or you have any other microUSB chargers, try using a different charger with your One X and/or try using your One X&#8217;s charger with a different device. If you find that the One X charges correctly with another charger or another device fails to charge correctly with your One X&#8217;s charger, your One X&#8217;s charger needs replacing. Explanation: it&#8217;s always possible that a power surge damaged the transformer in the plug or something heavy left on the cable may have damaged it. Of course, the charger would have undergone less testing and fewer quality checks too as it is worth far less than your One X.<br />
+3. Try turning off some wireless connectivity (e.g. Wi-Fi, Wi-Fi hotspot, mobile data, GPS) and other power-hungry options. As you probably saw in the post above, I managed to get the current required to exceed the current provided by the charger simply by watching iPlayer over 3G and outputting this via a MHL adapter, which also required the phone&#8217;s screen to stay on. Explanation: the One X can use power at the faster rate than the charger can provide it &#8211; with great power comes great responsibility! As we&#8217;ve both observed, it doesn&#8217;t appear to use the charger&#8217;s power at all if it is insufficient.<br />
+4. As an emergency measure to bring your phone back to life if none of the above works or is possible, try charging your phone while it is off. If it takes a very long time to reach the state where it is fully charged then the problem should be covered by point 2 above or 5 below.<br />
+5. If you&#8217;ve exhausted these options, your One X may have developed a physical fault that requires repair. I know that if you&#8217;re in the EU, you&#8217;ll have a two year warranty during which repairs like this will be free. If you&#8217;re outside the EU, I think HTC provides a one year warranty (so you should still be able to get it repaired for free!) &#8211; but you should check for your specific region <a href="https://support.htc.com/alerts_downloads/en/Warranty_Policy" rel="nofollow">here</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Verda		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-106</link>
+
+		<dc:creator><![CDATA[Verda]]></dc:creator>
+		<pubDate>Wed, 13 Mar 2013 07:15:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-106</guid>
+
+					<description><![CDATA[Hi,
+It&#039;s been almost 7 month since i bought htc one x. Suddenly since days when ever i try to charge my cell using adapter it does not charge and says your mobile is using more current than your charger can deliver. I am not using any app while i charge, its like its not charging at all. 
+please tell me what to do.
+thanks in advance]]></description>
+			<content:encoded><![CDATA[<p>Hi,<br />
+It&#8217;s been almost 7 month since i bought htc one x. Suddenly since days when ever i try to charge my cell using adapter it does not charge and says your mobile is using more current than your charger can deliver. I am not using any app while i charge, its like its not charging at all.<br />
+please tell me what to do.<br />
+thanks in advance</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mark		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-96</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Mon, 31 Dec 2012 16:17:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-96</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.g400.co.uk/cantabits/archives/476#comment-74&quot;&gt;Alastair&lt;/a&gt;.
+
+This seems to be fixed in the Android 4.1 update - it&#039;s now displaying as dd/mm/yyyy as I have requested my phone to display dates. Interestingly, it seems to zero-pad only the month (i.e. 1/01/2013), which is slightly annoying.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.g400.co.uk/cantabits/archives/476#comment-74">Alastair</a>.</p>
+<p>This seems to be fixed in the Android 4.1 update &#8211; it&#8217;s now displaying as dd/mm/yyyy as I have requested my phone to display dates. Interestingly, it seems to zero-pad only the month (i.e. 1/01/2013), which is slightly annoying.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mark		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-75</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2012 22:32:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-75</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.g400.co.uk/cantabits/archives/476#comment-74&quot;&gt;Alastair&lt;/a&gt;.
+
+I suspect that that might be something the developers at HTC forgot to make localisable, as it doesn&#039;t seem to change based on the date format settings. Date formats like that are handy for developers as it makes their lexicographical order and chronological order the same. Let&#039;s hope it&#039;s fixed in the big update coming soon with Android 4.1, PlayStation Certification and more...]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.g400.co.uk/cantabits/archives/476#comment-74">Alastair</a>.</p>
+<p>I suspect that that might be something the developers at HTC forgot to make localisable, as it doesn&#8217;t seem to change based on the date format settings. Date formats like that are handy for developers as it makes their lexicographical order and chronological order the same. Let&#8217;s hope it&#8217;s fixed in the big update coming soon with Android 4.1, PlayStation Certification and more&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alastair		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-74</link>
+
+		<dc:creator><![CDATA[Alastair]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2012 13:22:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-74</guid>
+
+					<description><![CDATA[One thing that annoys me with the HTC Task widget is it seems to display the date format as yyyy/mm/dd, which I don&#039;t like, but I can&#039;t find anywhere to alter this. Anyone else figured this out??]]></description>
+			<content:encoded><![CDATA[<p>One thing that annoys me with the HTC Task widget is it seems to display the date format as yyyy/mm/dd, which I don&#8217;t like, but I can&#8217;t find anywhere to alter this. Anyone else figured this out??</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mark		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-67</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Mon, 30 Jul 2012 22:13:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-67</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.g400.co.uk/cantabits/archives/476#comment-66&quot;&gt;Dave&lt;/a&gt;.
+
+The HTC Tasks app can work with Google Tasks if you like having everything in the cloud. Maybe HTCSense.com will bring a good web UI for tasks when it returns.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.g400.co.uk/cantabits/archives/476#comment-66">Dave</a>.</p>
+<p>The HTC Tasks app can work with Google Tasks if you like having everything in the cloud. Maybe HTCSense.com will bring a good web UI for tasks when it returns.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dave		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/476#comment-66</link>
+
+		<dc:creator><![CDATA[Dave]]></dc:creator>
+		<pubDate>Mon, 23 Jul 2012 15:35:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/476#comment-66</guid>
+
+					<description><![CDATA[I wish Google would put a good task manager into stock Android. Ideally coupled with a good web UI. Google Tasks was hopeless last time I tried it.]]></description>
+			<content:encoded><![CDATA[<p>I wish Google would put a good task manager into stock Android. Ideally coupled with a good web UI. Google Tasks was hopeless last time I tried it.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

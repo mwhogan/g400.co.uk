@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mark &#8211; Cantabits</title>
+	<atom:link href="https://www.g400.co.uk/cantabits/archives/author/mark/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.g400.co.uk/cantabits</link>
+	<description>Bits from a Cantab...</description>
+	<lastBuildDate>Mon, 07 Jun 2021 14:19:48 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>10 years of Cantabits&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2483</link>
+					<comments>https://www.g400.co.uk/cantabits/archives/2483#comments</comments>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sun, 12 Sep 2021 23:00:49 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.g400.co.uk/cantabits/archives/2483</guid>
+
+					<description><![CDATA[Apparently 10 years have passed since the switch from the self-written &#8220;Mark&#8217;s Blog&#8221; to the WordPress-powered &#8220;Cantabits&#8221;. 10 years is a long time for something to continue with little change on the Internet, so this is both a happy moment &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2483">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.g400.co.uk/cantabits/archives/4" rel="noopener" target="_blank">Apparently 10 years have passed</a> since the switch from the self-written &#8220;Mark&#8217;s Blog&#8221; to the WordPress-powered &#8220;Cantabits&#8221;. 10 years is a long time for something to continue with little change on the Internet, so this is both a happy moment (10 years is an achievement) and a sad moment (the end may be on the horizon).</p>
+<p>What does the future hold for Cantabits? I am not sure. Initially a place to experiment, learn and showcase in the &#8220;Mark&#8217;s Blog&#8221; era and a creative outlet in the &#8220;Cantabits&#8221; era, a blog seems less useful as my interests evolve. The current trend will probably continue in some form for now: increasing quietness with posts once every few years on topics of interest to me (e.g. <a href="https://www.g400.co.uk/cantabits/archives/2305" rel="noopener" target="_blank">building new homes</a>, <a href="https://www.g400.co.uk/cantabits/archives/2227" rel="noopener" target="_blank">soundtracks</a> and <a href="https://www.g400.co.uk/cantabits/archives/1409" rel="noopener" target="_blank">transport</a>). However, maintenance overhead may eventually make quiet freezing or deletion of Cantabits an attractive option.</p>
+<p>Will I continue to maintain a public presence on the Internet regardless of the future of Cantabits? Most likely, yes. <a href="https://g400.co.uk" rel="noopener" target="_blank">A static webpage linking to some of the services on which you can find me</a> is relatively unburdensome and useful.</p>
+<p>To those who have occasionally visited over the last 10 (or more!) years: thank you for your time. I hope you&#8217;ve found the content here interesting and wish you all the best for the future.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.g400.co.uk/cantabits/archives/2483/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pixel 2 XL camcorder microphone woes&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2452</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2019 00:00:25 +0000</pubDate>
+				<category><![CDATA[Computer Science]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<guid isPermaLink="false">https://www.g400.co.uk/cantabits/archives/2452</guid>
+
+					<description><![CDATA[Recently I encountered a strange issue on my Pixel 2 XL and thought it was worth sharing the problem, investigation and solution in case anyone experiences a similar issue. The problem One day I noticed that the videos I was &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2452">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Recently I encountered a strange issue on my <a href="https://en.wikipedia.org/wiki/Pixel_2" rel="noopener noreferrer" target="_blank">Pixel 2 XL</a> and thought it was worth sharing the problem, investigation and solution in case anyone experiences a similar issue.</p>
+<p><span id="more-2452"></span><strong>The problem</strong><br />
+One day I noticed that the videos I was recording on my Pixel 2 XL seemed silent. When playing back some videos, if I turned up the volume to it&#8217;s maximum I could just about hear loud events in the videos and a bit of hiss/static. This seemed odd as I hadn&#8217;t noticed volume problems during other regular activities that require the microphone (e.g. phone calls). As I have <a href="https://g400.co.uk/cam/" rel="noopener noreferrer" target="_blank">previous in-depth experience with audio on Android</a> and try to minimise phone upgrades for cost and environmental reasons, I decided to investigate.</p>
+<p><strong>The investigation</strong><br />
+The investigation went through a number of stages:</p>
+<ol>
+<li>First, I visually inspected the parts of the phone concealing microphones in case any dirt was preventing the sound from reaching the microphone. Everything seemed relatively clean.</li>
+<li>Next, I tried recording video using both the front and rear cameras, as I recalled reading that camera application sometimes uses different microphones depending on which camera is used. Unfortunately the result was the same with both cameras.</li>
+<li>As I hadn&#8217;t noticed the problem when using the microphones for other purposes, I tried using a couple of audio recording apps. Both were able to record good quality audio with no problems.</li>
+<li>To be sure it wasn&#8217;t a problem with the camera application I cleared its storage and cache, uninstalled updates, and ran the phone in safe mode and tried an alternative camera application. Still, the problem remained.
+<li>Thus far, evidence was pointing towards problems only occurring when recording video. I was aware that Android allows developers to specify different audio sources when recording and decided to remind myself of what those different audio sources were. Lo and behold, <a href="https://developer.android.com/reference/android/media/MediaRecorder.AudioSource#CAMCORDER" rel="noopener noreferrer" target="_blank">Android has a dedicated &#8220;camcorder&#8221; audio source</a>. I went back to the alternative camera application (<a href="https://sourceforge.net/p/opencamera/code/ci/master/tree/" rel="noopener noreferrer" target="_blank">Open Camera</a>) and was pleased to see that, although &#8220;camcorder&#8221; was the default audio source, I could select a different audio source. I selected the &#8220;default&#8221; source, recorded a video and played the video back: it sounded fine!</li>
+<li>Although I was happy to keep using Open Camera as a workaround, I still wanted to get to the bottom of the issue. Tracing the audio source selection down through the Android source code, it looked like the selection of actual microphones was handled in <a href="https://source.android.com/devices/architecture" rel="noopener noreferrer" target="_blank">device-specific code</a>. This seemed reasonable, as details of which microphone to use for what purpose is device-specific. It also meant that if the issue was a software issue it was likely to be affecting many others with a Pixel 2 XL, but a quick search suggested that the issue was not particularly common.</li>
+</ol>
+<p><strong>The solution</strong><br />
+I paused and considered what I knew:</p>
+<ol>
+<li>At least one audio source was broken and at least one worked.</li>
+<li>Despite claiming that the &#8220;camcorder&#8221; audio source uses a microphone with the &#8220;same orientation as the camera if available&#8221;, the camera orientation wasn&#8217;t affecting the brokenness of the &#8220;camcorder&#8221; audio source.</li>
+<li>The issue was quite unlikely to be a software problem.</li>
+<li>Affected videos sometimes had no audio and sometimes had very, very quiet audio.</li>
+</ol>
+<p>This suggested that one or more of the microphones was either defective or blocked. Of the three microphones on the Pixel 2 XL, <a href="https://support.google.com/pixelphone/answer/7157629?hl=en-GB#2017" rel="noopener noreferrer" target="_blank">two are front-facing and one is on the top of the phone</a>. If the problem was with a single microphone used for any camera orientation, the microphone on top of the phone was the most plausible candidate.</p>
+<p>As damaging an already defective microphone didn&#8217;t matter, I used a paperclip to carefully remove hidden dirt from deep inside the hole for the microphone on top of the phone. This solved the problem and I was able to revert to using the &#8220;camcorder&#8221; audio source.</p>
+<p><strong>Further thoughts</strong><br />
+I wonder why the Pixel 2 XL doesn&#8217;t use the front-facing microphones when using the front-facing camera. Perhaps the one on top is optimised for picking up ambient noise? All very interesting. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Greater Huntingdon&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2305</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sat, 04 May 2019 23:00:17 +0000</pubDate>
+				<category><![CDATA[Highlights]]></category>
+		<category><![CDATA[Huntingdonshire]]></category>
+		<category><![CDATA[Transport]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2305</guid>
+
+					<description><![CDATA[The population of Cambridgeshire is growing and there&#8217;s plenty of demand for further growth, but developing new places for people to live, work and play in Cambridgeshire is tricky. Cambridge itself is surrounded by green belt that few seem willing &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2305">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The population of Cambridgeshire is growing and there&#8217;s plenty of demand for further growth, but developing new places for people to live, work and play in Cambridgeshire is tricky. Cambridge itself is <a href="https://en.wikipedia.org/wiki/Cambridge_Green_Belt">surrounded by green belt</a> that few seem willing to sacrifice, despite much of it being described as dull and featureless.&nbsp;There&#8217;s lots of development around Peterborough, but it cannot be expected to handle all of the population growth. A few new towns are being developed (Cambourne and Northstowe), but these are not well suited to grow beyond a certain size.</p>
+<p>Notably, Cambridgeshire is curious in that it has two small-ish cities but does not yet have any large towns like Wellingborough, Corby and Kettering in neighbouring Northamptonshire. Many of the bigger towns to the east of the county (March, Wisbech and the city of Ely) are surrounded by flat, low-lying land that&#8217;s at risk of flooding by both river and, <a href="https://en.wikipedia.org/wiki/Global_warming">in the longer term</a>, sea. On this basis, I would suggest that these towns should not be top of the list for future growth. However, the bigger towns in the west of Cambridgeshire are better suited to handling significant growth and providing Cambridgeshire with some large towns: Huntingdon and St Neots.</p>
+<p><span id="more-2305"></span>There are some good reasons to be pro-development, such as:</p>
+<ul>
+<li>One of the most certain ways to ensure the maintenance and perhaps even growth existing facilities if by growing the population they serve. For example, the argument for keeping the current range of services at Hinchingbrooke Hospital would be increasingly difficult if the Huntingdon area did not soak up much of Cambridgeshire&#8217;s population growth. A growing population <a href="https://www.nwangliaft.nhs.uk/about-us/trust-news/department-of-health-funding-approval-for-hinchingbrooke-hospital/">is already acknowledged as a factor</a> in future investment decisions.</li>
+<li>By allowing large scale development, such as Alconbury Weald, you generally end up with a well-thought-out development with appropriate new facilities, green space, utilities improvements, etc. Conversely, by resisting large scale development you end up with somewhere like Cambridge or London where the quality of homes is decreasing, the price of homes is ridiculous and there are few improvements to facilities, green space, etc.</li>
+</ul>
+<p>Obviously there&#8217;s far more discussion and debate to be had in this area, but the point of this post is not to fully examine Cambridgeshire&#8217;s growth and development opportunities or the nationwide need for growth and development. Instead, like <a href="https://www.g400.co.uk/cantabits/archives/1409">Cambridge Automated Metro</a>, I&#8217;d like to present a &#8220;What If&#8221; scenario.</p>
+<p><strong>What if we strategically grew Huntingdon and St Neots towards the size of Wellingborough, Corby and Kettering?</strong></p>
+<p>I&#8217;ll focus on Huntingdon in this post for a variety of reasons:</p>
+<ul>
+<li>It&#8217;s well placed to be a focal point for Cambridgeshire other than Cambridge and Peterborough: as well as geographically, various county-wide services are headquartered there, Cambridgeshire County Council will soon be moving its headquarters to the area and it&#8217;s where a number of major transport routes (significant well beyond Cambridgeshire) meet.</li>
+<li>There are some significant settlements (e.g. Godmanchester and Brampton) that have functionally been suburbs of Huntingdon for a long time.</li>
+<li>There&#8217;s plenty of housebuilding occurring locally including, most notably, Alconbury Weald.</li>
+<li>The local road network is about to change significantly: the ongoing A14 upgrade will see significant sections of dual carriageway in the area (Cambridge Services to Huntingdon town centre, Alconbury to Hinchingbrooke, Stukeley Meadows to Brampton Hut) become significantly underloaded, and the Alconbury Weald development is nearing the point of having its own road connection to Huntingdon.</li>
+<li>Cambourne and Northstowe, like Alconbury Weald, have been built to be dependent on a larger nearby settlement for a larger range of facilities (e.g. retail, leisure, hospitals, work). The intention was probably for these to depend on Cambridge, but they also have good access to Huntingdon.</li>
+<li>There are likely to be significant changes to the south of St Neots, with the Oxford to Cambridge expressway and railway due to run in that corridor, but these are still in early planning stages (e.g. the precise routes each project will take have not yet been decided).</li>
+</ul>
+<p>An interesting question, relevant to the section below, is the relationship between St Ives and Huntingdon. As both grow, are they close enough and related enough to be considered parts of a single greater area? The distance between them is an argument against, but it&#8217;s notable that much of the gap between them is also populated (via the villages of Houghton and Wyton) and in a number of ways St Ives and Huntingdon are treated as one. For example, there&#8217;s no overlap in terms of major supermarkets: Huntingdon has Tesco, Sainsbury&#8217;s, M&#038;S, Lidl and Aldi whereas St Ives has Wairtose, Morrisons and a Co-Op.</p>
+<p>Some of the benefits of creating a &#8220;Greater Huntingdon&#8221;, incorporating nearby settlements and development, could include:</p>
+<ul>
+<li>A larger budget for events in the area and for marketing of the area for retail and tourism.</li>
+<li>The significant population of the area being more easily recognisable to those looking to visit or invest in the area.</li>
+<li>Better strategic planning for the area, hopefully resulting in long-term improvements to roads, public transport, amenities, etc.</li>
+</ul>
+<p><strong>The Greater Huntingdon Map</strong><br />
+The main point of this post, like Cambridge Automated Metro, is to exhibit a &#8220;What If&#8221; map. Putting everything above together, along with a variety of developments, improvements, etc. that have been proposed or are under construction, produces an idea of what Huntingdon and the surrounding area could look like. Please note that my research has not been overly thorough, and I wouldn&#8217;t be surprised to find some significant or insurmountable obstacles (e.g. wind turbines, historic landfill sites) to some more speculative features on the map. However, I have done my best to take account of many non-obvious restrictions such as <a href="https://en.wikipedia.org/wiki/Site_of_Special_Scientific_Interest">SSSIs</a> and other important green space, A14(M) and A1(M) borrow pits, and land prone to flooding. The research process has certainly been interesting and I&#8217;ve learned a lot about the history of the area. I am also bound to keep tinkering with the map and quietly updating this post: every time I look at it I see at least one thing that&#8217;s not quite right.</p>
+<p>I present to you how Greater Huntingdon could look in a few decades, with a population of approximately 100,000:<br />
+<div id="attachment_2441" style="width: 594px" class="wp-caption aligncenter"><a href="https://www.g400.co.uk/cantabits/archives/2305/greater-huntingdon-2" rel="attachment wp-att-2441"><img aria-describedby="caption-attachment-2441" src="https://www.g400.co.uk/cantabits/wp-content/uploads/2019/05/Greater-Huntingdon-1024x576.png" alt="Greater Huntingdon" width="584" height="329" class="size-large wp-image-2441" srcset="https://www.g400.co.uk/cantabits/wp-content/uploads/2019/05/Greater-Huntingdon-1024x576.png 1024w, https://www.g400.co.uk/cantabits/wp-content/uploads/2019/05/Greater-Huntingdon-300x169.png 300w, https://www.g400.co.uk/cantabits/wp-content/uploads/2019/05/Greater-Huntingdon-768x432.png 768w, https://www.g400.co.uk/cantabits/wp-content/uploads/2019/05/Greater-Huntingdon-500x281.png 500w" sizes="(max-width: 584px) 100vw, 584px" /></a><p id="caption-attachment-2441" class="wp-caption-text">Greater Huntingdon</p></div></p>
+<p>Legend:</p>
+<ul>
+<li>
+Lines</p>
+<ul>
+<li>Darker blue: motorway*</li>
+<li>Mid-blue: rivers</li>
+<li>Green: major A-roads*</li>
+<li>White: other roads of significance*</li>
+<li>White dotted: proposed other roads of significance*</li>
+<li>Black: railways</li>
+</ul>
+<p>* Note that thicker lines represent dual carriageways and thinner lines represent single carriageways.
+</li>
+<li>
+Areas</p>
+<ul>
+<li>Mid-blue: lakes</li>
+<li>Red: residential (and some associated things such as schools)</li>
+<li>Purple: notable establishments (e.g. hospital, railway station, council HQ)</li>
+<li>Yellow: retail (and similar establishments such as restaurants, hotels and museums)</li>
+<li>Pink: other employment</li>
+<li>Green: large public green space</li>
+<li>Light blue (and very fuzzy): potential areas for further development</li>
+</ul>
+</li>
+</ul>
+<p>Notes on map features:</p>
+<ul>
+<li>The level of detail on the map is fairly arbitrary: clearly I&#8217;ve taken more interest in some areas than others. For example, the whole of Huntingdon town centre is marked as retail (despite the substantial number of homes, Huntingdonshire District Council HQ, etc.) whereas the new Cambridgeshire County Council HQ gets its own purple blob. It would be extremely time consuming to add a great amount of detail across the map, such as an appropriately coloured blob for every shop and green space.
+<li>I&#8217;ve given names to some future developments to help make the map more intelligible. For clarity, I&#8217;ve generally reused existing placenames and augmented them. For example, as well as Stukeley Meadows, we now have Stukeley Hillside. They&#8217;re very much just placeholders though and many could be improved.</li>
+<li>This map deliberately doesn&#8217;t make it clear what is within Greater Huntingdon and what&#8217;s just near it. Exactly where the line could and should be drawn is up for debate. As discussed above, Godmanchester, Brampton and Alconbury Weald are very strong candidates. Given Alconbury Weald, the Stukeleys and the Alconburys are not unreasonable candidates too. St Ives is more debatable, though it will soon be connected to Huntingdon and Godmanchester by a dual carriageway virtually dedicated to the three towns and, as discussed above, Huntingdon and St Ives are already treated as one on some levels. If St Ives is included, it makes sense to include everything between Huntingdon and St Ives. The population figure includes all of these as well as Fenstanton, the Offords and Buckden, as these would be close satellite villages.</li>
+<li>I&#8217;ve included a third river crossing as it has been in the news again recently. From what I can remember, any time there has been talk of a third river crossing, it has been from Godmanchester to Hartford. I&#8217;ve included that on the map as a dotted line, along with two alternative options, from Godmanchester to Hinchingbrooke and Godmanchester to Brampton. There are a couple of reasons for this: Brampton Road and its junctions (specifically Hinchingbrooke Park Road and the train station junction) are well known for being overwhelmed for a number of hours every day (this seems likely to get worse with the A14 upgrade) and both options would also provide a fourth vehicular route for crossing the East Coast Main Line. As usual, there has been thinking about some detail (e.g. notice how the Godmanchester-Brampton link follows some of the path of <a href="https://en.wikipedia.org/wiki/Kettering,_Thrapston_and_Huntingdon_Railway">the old Huntingdon-Kettering railway</a>), but there&#8217;s plenty more that I&#8217;d need to investigate before considering the proposal serious. The Godmanchester to Hartford crossing is still a useful and valid option for allowing A1307 and A1198 traffic to reach the A141 without going through Huntingdon.</li>
+<li>An improved A141 (partially on a new alignment), which has been a distant plan for some time, is included. I&#8217;ve suggested dualling this to Wyton airfield as it&#8217;s already quite busy at peak times and will be made yet busier by the new developments. It would be nice for some of junctions it has to be <a href="https://www.sabre-roads.org.uk/wiki/index.php?title=Grade_Separated_Junction">grade-separated</a>, but that would require a more significant upgrade proposal (it would have to have far fewer junctions spend much of its length running significantly below or above the natural ground level).</li>
+<li>Given the third river crossing and improved A141, I&#8217;ve included the development of Wyton airfield (a little different from the proposed masterplan: much more green space), which would become much more accessible.</li>
+<li>After researching and drawing the map, potential future areas for development (beyond specific current proposals) became clearer, and I&#8217;ve marked these as very fuzzy light-blue blobs. Topography and major roads make much development to the west difficult. There is much more potential around the southern edge of Godmanchester and to the north and north-east of Huntingdon though.</li>
+<li>There are various other minor interesting things on the map, such as an extension of Huntingdon Retail Park to the north of the A141 and something interesting on Views Common (to make the most of the good access) but, as with Cambridge Automated Metro, I&#8217;ll leave such details for others to find and think about for themselves.
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Working on an interesting new blog post, provisionally titled &#8220;Greater Huntingdon&#8221;&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2313</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2018 22:34:00 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2313</guid>
+
+					<description><![CDATA[Working on an interesting new blog post, provisionally titled &#8220;Greater Huntingdon&#8221;. Not sure when, or even if, I will finish it though.]]></description>
+										<content:encoded><![CDATA[<p>Working on an interesting new blog post, provisionally titled &#8220;Greater Huntingdon&#8221;. Not sure when, or even if, I will finish it though.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pride In The Jersey&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2287</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sun, 15 Apr 2018 23:00:35 +0000</pubDate>
+				<category><![CDATA[Ireland]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2287</guid>
+
+					<description><![CDATA[I recently came across Pride In The Jersey, a website about the kits of the various county-level GAA teams. This page is particularly interesting as it links to pages for each team with designs for kits dating back up to &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2287">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I recently came across <a href="http://www.prideinthejersey.com/">Pride In The Jersey</a>, a website about the kits of the various county-level <a href="https://en.wikipedia.org/wiki/Gaelic_Athletic_Association">GAA</a> teams. <a href="http://www.prideinthejersey.com/jerseysindex.html">This page is particularly interesting</a> as it links to pages for each team with designs for kits dating back up to a few decades. Some of the kits have clearly gone through periods of having better and worse designs, and it&#8217;s interesting to see how long those periods have lasted!</p>
+<p><span id="more-2287"></span><div id="attachment_2295" style="width: 241px" class="wp-caption aligncenter"><a href="http://www.g400.co.uk/cantabits/archives/2287/clare-sleeve" rel="attachment wp-att-2295"><img aria-describedby="caption-attachment-2295" loading="lazy" src="http://www.g400.co.uk/cantabits/wp-content/uploads/2018/04/Clare-Sleeve-231x300.jpg" alt="A Clare jersey sleeve" width="231" height="300" class="size-medium wp-image-2295" srcset="https://www.g400.co.uk/cantabits/wp-content/uploads/2018/04/Clare-Sleeve-231x300.jpg 231w, https://www.g400.co.uk/cantabits/wp-content/uploads/2018/04/Clare-Sleeve-768x998.jpg 768w, https://www.g400.co.uk/cantabits/wp-content/uploads/2018/04/Clare-Sleeve-788x1024.jpg 788w" sizes="(max-width: 231px) 100vw, 231px" /></a><p id="caption-attachment-2295" class="wp-caption-text">A &#8220;chevron&#8221; era Clare jersey sleeve</p></div></p>
+<p>I particularly miss <a href="http://www.prideinthejersey.com/files/Clare/H2002.jpg">the &#8220;chevron&#8221; era</a> of Clare jersey designs, from 2000 to 2005. As well as having a nice design (featuring plenty of chevrons), I remember jerseys from that era (correctly) having a nice saffron colour in real life &#8211; some other Clare jerseys have been a more plain yellow or have had a subtle mix of shades.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Seb Skelly&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2277</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Tue, 27 Mar 2018 23:00:49 +0000</pubDate>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2277</guid>
+
+					<description><![CDATA[During a recent extended browse of YouTube I came across a fun channel by North-London-based Seb Skelly. On that channel he performs nice arrangements of music you may know (from the Thomas the Tank Engine theme to The Final Countdown), &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2277">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>During a recent extended browse of YouTube I came across <a href="https://www.youtube.com/user/sebskelly">a fun channel</a> by North-London-based <a href="https://www.sebskelly.com/">Seb Skelly</a>. On that channel he performs nice arrangements of music you may know (from <a href="https://www.youtube.com/watch?v=DP_0kyqmrBw">the Thomas the Tank Engine theme</a> to <a href="https://www.youtube.com/watch?v=4hNr3Y2uUEU">The Final Countdown</a>), typically for brass quintet, that are well worth a listen.</p>
+<p><span id="more-2277"></span>I leave you with another blast from the past by Seb: <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Theme">the original Pokémon theme</a>.<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/G_x6GfGCP5k?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to score a sequel&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2227</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2017 23:00:01 +0000</pubDate>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Highlights]]></category>
+		<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2227</guid>
+
+					<description><![CDATA[It has been a long time since I originally posted about Geoff Zanelli. In that time he has worked on a number of films, taking on an increasingly prominent role. When I heard that he was taking over as lead &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2227">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>It has been a long time since <a href="http://www.g400.co.uk/cantabits/archives/831" target="_blank">I originally posted about Geoff Zanelli</a>. In that time he has worked on a number of films, taking on an increasingly prominent role. When I heard that he was taking over as lead composer for the fifth Pirates of the Caribbean film (Dead Men Tell No Tales/Salazar&#8217;s Revenge), <a href="http://www.g400.co.uk/cantabits/archives/2194" target="_blank">I was excited to listen to the result</a>. Just over a month ago I was lucky enough to see the film and I was not disappointed.</p>
+<div id="attachment_2270" style="width: 594px" class="wp-caption aligncenter"><a href="http://www.g400.co.uk/cantabits/archives/2227/random-music-may-2008-excerpt-1" rel="attachment wp-att-2270"><img aria-describedby="caption-attachment-2270" loading="lazy" src="http://www.g400.co.uk/cantabits/wp-content/uploads/2017/06/Random-Music-May-2008-Excerpt-1-1024x254.png" alt="An extract from some Piratey music I wrote back in 2008. © 2008 Mark Hogan." width="584" height="145" class="size-large wp-image-2270" srcset="https://www.g400.co.uk/cantabits/wp-content/uploads/2017/06/Random-Music-May-2008-Excerpt-1-1024x254.png 1024w, https://www.g400.co.uk/cantabits/wp-content/uploads/2017/06/Random-Music-May-2008-Excerpt-1-300x74.png 300w, https://www.g400.co.uk/cantabits/wp-content/uploads/2017/06/Random-Music-May-2008-Excerpt-1-768x190.png 768w, https://www.g400.co.uk/cantabits/wp-content/uploads/2017/06/Random-Music-May-2008-Excerpt-1-500x124.png 500w, https://www.g400.co.uk/cantabits/wp-content/uploads/2017/06/Random-Music-May-2008-Excerpt-1.png 1163w" sizes="(max-width: 584px) 100vw, 584px" /></a><p id="caption-attachment-2270" class="wp-caption-text">An extract from some Piratey music I wrote back in 2008. © 2008 Mark Hogan.</p></div>
+<p><span id="more-2227"></span><strong>Originality versus continuity</strong></p>
+<p>I&#8217;d like a slightly nuanced point: I think that <em>both</em> originality and continuity are important in soundtracks. With more and more film scores failing to stray too far from <a href="https://en.wikipedia.org/wiki/Temp_track" target="_blank">temp tracks</a>, originality perhaps adds more value than ever. However, one of my biggest gripes lately is sequels with soundtracks that are barely related to the preceding film(s) (I&#8217;m looking at you Marvel). Yes, a change in tone, new themes, etc. are normally required, but that doesn&#8217;t mean everything needs to be thrown out of the window! Themes can be re-arranged and motifs can be reused where they could enhance the sense that we are seeing the same characters or places in new situations.</p>
+<p>A good example of this problem is the Thor series. I like both Patrick Doyle&#8217;s score for the original film and Brian Tyler&#8217;s Score for Thor: The Dark World. While the scores are not worlds apart, I feel the series is really let down by the sudden and complete change in themes from one film to the next. The soundtrack is very much part of the identity of a film, so having so little continuity contributes to it being <a href="https://www.polygon.com/2016/9/12/12889722/marvel-music-weak-blockbusters" target="_blank">relatively forgettable in the scheme of things</a>.</p>
+<p>Many other soundtracks &#8211; even the Harry Potter film series, the first few of which were scored by the great John Williams &#8211; do better but leave room for improvement, in my opinion. Admittedly, soundtracks for film series where the journey and ending are known, such as The Lord of the Rings, are easier to score in many ways. However, in the Harry Potter case, the original themes weren&#8217;t brilliantly targeted: Hedwig was unlikely to benefit from a dedicated theme.</p>
+<p>I suspect that, where there is a change in composer between films, licensing issues play some part in the poor reuse of themes. This is a shame as subjecting the same music to different creative minds can produce interesting results. The &#8220;Heroes&#8221; track from Avengers: Age of Ultron is a good example of the opportunities that were available in Marvel&#8217;s films.</p>
+<p><strong>Pirates of the Caribbean 5</strong></p>
+<p>Back to Geoff&#8217;s score for Pirates 5: thankfully Geoff does make plenty of use of the rich library of themes inherited from previous Pirates of the Caribbean movies, to which he contributed significantly. Even where they do crop up, they are rarely played in exactly the same way, helping to keep them fresh. One of the most fun examples of this is &#8220;The Dying Gull&#8221;, which mostly consists of a rendition of &#8220;Hoist The Colours&#8221;:<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/c6QCPthBgWs?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>We do see plenty of new themes too, both borrowing from, and pushing the boundaries of, the sounds of the previous Pirates of the Caribbean films. In a franchise so rich with bad guys, each supposedly worse than the preceding one, it can&#8217;t be easy to come up with themes for them. One of the most interesting tracks in this respect is &#8220;El Matador Del Mar&#8221;, which showcases both Salazar&#8217;s theme and fresh arrangements of numerous old themes as Jack becomes Captain Jack Sparrow:<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/_ZkYTB3xYVo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Carina also has a great theme that is used to push the &#8220;Pirates&#8221; sound into new territory. The following example, &#8220;The Brightest Star in the North&#8221;, is the best example of this and features a brief similarity to my own arrangement of &#8220;Drunken Sailor&#8221; at 3:35:<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/02eSX7gOvXc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Even with these new themes, Geoff never strays too far from the existing &#8220;Pirates&#8221; sound to join everything together. In the soundtrack&#8217;s final track, &#8220;Beyond My Beloved Horizon&#8221;, Carina&#8217;s theme sounds like it could always have been the &#8220;B&#8221; section of &#8220;He&#8217;s A Pirate&#8221;:<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/DebUsNalptU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>It&#8217;s tempting to put feature many more tracks here, but I&#8217;ll resist the temptation. Instead, you can check them out for yourself. Interestingly and usefully, Disney has made the entire soundtrack <a href="https://www.youtube.com/user/DisneyMusicVEVO/videos" target="_blank">available on YouTube</a>.</p>
+<p>One of the best aspects of the soundtrack as a whole is the generous quantity of music. Previous Pirates of the Caribbean soundtrack albums have been relatively short or padded out with remixes, often missing some of the most beautiful music from the films. This is not the case with Pirates 5: well over an hour of original music is included on the CD and the single remix associated with it is banished to the downloadable album.</p>
+<p><strong>Conclusions</strong></p>
+<p>Overall, I really do like Geoff&#8217;s new soundtrack: it has a great balance of freshened up versions of what we know and love along with great new content that feels at home in the &#8220;Pirates&#8221; universe. I am a great fan of Hans, but giving Geoff the opportunity to take centre stage this time has allowed the soundtrack to move forward in exciting ways and has been a welcome breath of fresh air. Hopefully this will lead to further great opportunities for Geoff.</p>
+<p>Thankfully, as he contributed significantly to the previous four Pirates of the Caribbean soundtracks before taking the wheel for the latest installment, Geoff seems to have been given a lot of opportunity to <a href="http://www.filmmusicmag.com/?p=17548" target="_blank">talk to the press about Pirates 5</a>. The view into his world is fascinating. Below is a brief &#8220;behind the scenes&#8221; video of a Pirates 5 recording session:<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/0PGMB_lYw9I?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>Finally, if you&#8217;re still reading, here&#8217;s a lengthy but very interesting interview with Geoff himself, covering mostly his history in the industry and the latest Pirates soundtrack:<br />
+<iframe loading="lazy" width="584" height="329" src="https://www.youtube.com/embed/3mUcaauaNrs?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Radio Garden&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2213</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2017 23:00:44 +0000</pubDate>
+				<category><![CDATA[Huntingdonshire]]></category>
+		<category><![CDATA[Ireland]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2213</guid>
+
+					<description><![CDATA[Radio Garden is an interesting website I came across a while ago that allows the exploration of radio around the globe with ease. While it does have sections on History, Jingles and Stories, the most interesting feature is the ability &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2213">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://radio.garden/" target="_blank" rel="noopener noreferrer">Radio Garden</a> is an interesting website I came across a while ago that allows the exploration of radio around the globe with ease. While it does have sections on History, Jingles and Stories, the most interesting feature is the ability to browse radio stations geographically and listen to them live. The website seems very well put together, working smoothly across a range of devices, making it useful for general purpose browsing and playing if your favourite stations are geographically spread.</p>
+<p><span id="more-2213"></span>While the range of radio stations is surprisingly good, it is still limited and can be misleading. For example, a lot of regional radio stations in Ireland are missing: just some of the stations missing from near Limerick include <a href="https://en.wikipedia.org/wiki/Clare_FM" target="_blank" rel="noopener noreferrer">Clare FM</a>, <a href="https://en.wikipedia.org/wiki/Radio_Kerry" target="_blank" rel="noopener noreferrer">Radio Kerry</a> and <a href="https://en.wikipedia.org/wiki/Tipp_FM" target="_blank" rel="noopener noreferrer">Tipp FM</a>. Curiously, the <a href="http://www.g400.co.uk/cantabits/archives/2149" target="_blank" rel="noopener noreferrer">recently mentioned</a> Huntingdon Community Radio has only been available on some of my visits to the website.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>An early look at Pirates of the Caribbean 5&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2194</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2016 23:00:03 +0000</pubDate>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Music]]></category>
+		<guid isPermaLink="false">http://www.g400.co.uk/cantabits/archives/2194</guid>
+
+					<description><![CDATA[Joachim Rønning, one of the directors of Pirates of the Caribbean: Dead Men Tell No Tales, recently posted this brief but exciting video of the score for the movie being recorded. A sneak peak of the start of the movie &#8230; <a href="https://www.g400.co.uk/cantabits/archives/2194">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Joachim Rønning, one of the directors of Pirates of the Caribbean: Dead Men Tell No Tales, recently posted <a href="https://www.instagram.com/p/BKUYAUDA2ZZ/">this brief but exciting video</a> of the score for the movie being recorded. A sneak peak of the start of the movie can be seen in the background: most is not too interesting (the usual Disney and Jerry Bruckheimer Films logos), but you do get a few seconds of the first scene.</p>
+<p><span id="more-2194"></span>The video has also been reposted <a href="https://www.facebook.com/GeoffZanelliMusic/videos/10154073571286634/">here</a> by the composer of the soundtrack, Geoff Zanelli. Like Hans Zimmer, Geoff has had <a href="http://www.g400.co.uk/cantabits/archives/831">significant involvement with the whole series thus far</a>. I&#8217;m excited to see what he writes now that he has control over the whole soundtrack. The opening sequence from the video sounds promising &#8211; it sounds new and exciting but has vague similarities to <a href="https://www.youtube.com/watch?v=meb_4cEriyw#t=49s">one of the themes from the first film</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>I&#8217;ve only just noticed that the 5th birthday of Ca&#8230;</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2209</link>
+		
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2016 17:38:17 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">http://twitter-779374340919988226-post</guid>
+
+					<description><![CDATA[I&#8217;ve only just noticed that the 5th birthday of Cantabits was 10 days ago. Where did the time go? #HappyBirthday]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve only just noticed that the 5th birthday of Cantabits was 10 days ago. Where did the time go? <a href="http://twitter.com/search?q=%23HappyBirthday">#HappyBirthday</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

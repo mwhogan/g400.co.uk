@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Why do @CambsCC and @camcitco continue to love cyc&#8230;	</title>
+	<atom:link href="https://www.g400.co.uk/cantabits/archives/2005/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.g400.co.uk/cantabits/archives/2005</link>
+	<description>Bits from a Cantab...</description>
+	<lastBuildDate>Sat, 22 Feb 2014 19:32:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: Mark		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/2005#comment-135</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Sat, 22 Feb 2014 19:32:39 +0000</pubDate>
+		<guid isPermaLink="false">http://twitter-437307858632589312-post#comment-135</guid>
+
+					<description><![CDATA[Commuting from parts of Huntingdon to much of Cambridge is officially an extreme commute via the Guided Busway, despite the two only being 20 minutes apart by car (assuming no trouble on the A14).]]></description>
+			<content:encoded><![CDATA[<p>Commuting from parts of Huntingdon to much of Cambridge is officially an extreme commute via the Guided Busway, despite the two only being 20 minutes apart by car (assuming no trouble on the A14).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

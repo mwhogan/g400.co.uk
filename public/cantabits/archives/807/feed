@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Windows 8 is out tomorrow. Somehow I haven&#8217;t tried&#8230;	</title>
+	<atom:link href="https://www.g400.co.uk/cantabits/archives/807/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.g400.co.uk/cantabits/archives/807</link>
+	<description>Bits from a Cantab...</description>
+	<lastBuildDate>Thu, 25 Oct 2012 21:53:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: Mark		</title>
+		<link>https://www.g400.co.uk/cantabits/archives/807#comment-78</link>
+
+		<dc:creator><![CDATA[Mark]]></dc:creator>
+		<pubDate>Thu, 25 Oct 2012 21:53:11 +0000</pubDate>
+		<guid isPermaLink="false">http://twitter-261584774878097408-post#comment-78</guid>
+
+					<description><![CDATA[I love it when everything works smoothly the first time: I had to switch plugins for importing tweets and turning them into blog posts, and I made a few modifications along the way...]]></description>
+			<content:encoded><![CDATA[<p>I love it when everything works smoothly the first time: I had to switch plugins for importing tweets and turning them into blog posts, and I made a few modifications along the way&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
