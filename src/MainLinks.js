@@ -72,7 +72,7 @@ export default function MainLinks() {
         <ListItemText primary="Zeus Technology"
           secondary={
             <React.Fragment>
-              {"At Riverbed, Brocade, Pulse Secure and Ivanti I worked from 2014 to 2022 on a variety of products primarily in the business unit formerly known as Zeus Technology."}
+              {"At Riverbed, Brocade, Pulse Secure and Ivanti I worked from 2014 to 2022 on a variety of products, platforms, libraries and programmes, primarily in the business unit formerly known as Zeus Technology."}
             </React.Fragment>
           }
         />
