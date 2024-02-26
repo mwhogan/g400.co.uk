@@ -36,7 +36,7 @@ export default function App() {
       <CssBaseline />
       <Container maxWidth="sm">
         <Box sx={{ my: 4 }}>
-          <Typography variant="h4" component="h1" gutterBottom>
+          <Typography variant="h3" component="h1" gutterBottom>
             Welcome to g400.co.uk!
           </Typography>
           <Intro />

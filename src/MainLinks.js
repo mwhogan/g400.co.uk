@@ -38,10 +38,10 @@ export default function MainLinks() {
 
   return (
     <React.Fragment>
-      <Typography>
+      <Typography variant="h6" component="h2">
         Active:
       </Typography>
-      <List>
+      <List sx={{ pt: 0 }}>
         <ListItemButton component="a" href="https://github.com/mwhogan">
           <ListItemIcon>
             <GitHubIcon />
@@ -61,92 +61,92 @@ export default function MainLinks() {
           <ListItemText primary="Mastodon" primaryTypographyProps={linkTypographyProps} />
         </ListItemButton>
       </List>
-      <Typography>
+      <Typography variant="h6" component="h2">
         Archived:
       </Typography>
-      <List>
-      <ListItemButton onClick={handleZeusClick}>
-        <ListItemIcon>
-          <ElectricBoltIcon sx={{ transform: 'scaleX(-1)' }} />
-        </ListItemIcon>
-        <ListItemText primary="Zeus Technology"
-          secondary={
-            <React.Fragment>
-              {"At Riverbed, Brocade, Pulse Secure and Ivanti I worked from 2014 to 2022 on a variety of products, platforms, libraries and programmes, primarily in the business unit formerly known as Zeus Technology."}
-            </React.Fragment>
-          }
-        />
-        {zeusOpen ? <ExpandLessIcon /> : <ExpandMoreIcon />}
-      </ListItemButton>
-      <Collapse in={zeusOpen} timeout="auto" unmountOnExit>
-        <List>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20201019221716/https://www.pulsesecure.net/products/services-director/">
-            <ListItemIcon>
-              <InsightsIcon />
-            </ListItemIcon>
-            <ListItemText primary="Services Director" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220331072114/https://www.pulsesecure.net/products/virtual-traffic-manager/">
-            <ListItemIcon>
-              <CloudIcon />
-            </ListItemIcon>
-            <ListItemText primary="Virtual Traffic Manager" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220425002741/https://www.pulsesecure.net/products/vwaf/">
-            <ListItemIcon>
-              <ShieldIcon />
-            </ListItemIcon>
-            <ListItemText primary="Virtual Web Application Firewall" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220403172506/https://www.ivanti.com/products/ivanti-neurons-zero-trust-access">
-            <ListItemIcon>
-              <EnhancedEncryptionIcon />
-            </ListItemIcon>
-            <ListItemText primary="Neurons for Zero Trust Access" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220608003654/https://www.ivanti.com/products/ivanti-neurons-for-secure-access">
-            <ListItemIcon>
-              <VpnLockIcon />
-            </ListItemIcon>
-            <ListItemText primary="Neurons for Secure Access" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-        </List>
-      </Collapse>
-      <ListItemButton onClick={handleFonleapClick}>
-        <ListItemIcon>
-          <SmartphoneIcon />
-        </ListItemIcon>
-        <ListItemText primary="Fonleap"
-          secondary={
-            <React.Fragment>
-              {"At Fonleap I worked on the PocketVM and Storleap products from 2011 to 2014."}
-            </React.Fragment>
-          }
-        />
-        {fonleapOpen ? <ExpandLessIcon /> : <ExpandMoreIcon />}
-      </ListItemButton>
-      <Collapse in={fonleapOpen} timeout="auto" unmountOnExit>
-        <List>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://www.youtube.com/watch?v=IXlkCOsuHE8">
-            <ListItemIcon>
-              <DevicesIcon />
-            </ListItemIcon>
-            <ListItemText primary="PocketVM" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20141221212448/http://www.storleap.com/">
-            <ListItemIcon>
-              <CloudSyncIcon />
-            </ListItemIcon>
-            <ListItemText primary="Storleap" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-          <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20130725110219/http://www.ideaspace.cam.ac.uk/members/people/Mark-Hogan?IArticle=2219">
-            <ListItemIcon>
-              <LightbulbIcon />
-            </ListItemIcon>
-            <ListItemText primary="ideaSpace" primaryTypographyProps={linkTypographyProps} />
-          </ListItemButton>
-        </List>
-      </Collapse>
+      <List sx={{ pt: 0 }}>
+        <ListItemButton onClick={handleZeusClick}>
+          <ListItemIcon>
+            <ElectricBoltIcon sx={{ transform: 'scaleX(-1)' }} />
+          </ListItemIcon>
+          <ListItemText primary="Zeus Technology"
+            secondary={
+              <React.Fragment>
+                At Riverbed, Brocade, Pulse Secure and Ivanti, Mark worked from 2014 to 2022 on a variety of products, platforms, libraries and programmes, primarily in the business unit formerly known as Zeus Technology.
+              </React.Fragment>
+            }
+          />
+          {zeusOpen ? <ExpandLessIcon /> : <ExpandMoreIcon />}
+        </ListItemButton>
+        <Collapse in={zeusOpen} timeout="auto" unmountOnExit>
+          <List>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20201019221716/https://www.pulsesecure.net/products/services-director/">
+              <ListItemIcon>
+                <InsightsIcon />
+              </ListItemIcon>
+              <ListItemText primary="Services Director" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220331072114/https://www.pulsesecure.net/products/virtual-traffic-manager/">
+              <ListItemIcon>
+                <CloudIcon />
+              </ListItemIcon>
+              <ListItemText primary="Virtual Traffic Manager" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220425002741/https://www.pulsesecure.net/products/vwaf/">
+              <ListItemIcon>
+                <ShieldIcon />
+              </ListItemIcon>
+              <ListItemText primary="Virtual Web Application Firewall" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220403172506/https://www.ivanti.com/products/ivanti-neurons-zero-trust-access">
+              <ListItemIcon>
+                <EnhancedEncryptionIcon />
+              </ListItemIcon>
+              <ListItemText primary="Neurons for Zero Trust Access" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20220608003654/https://www.ivanti.com/products/ivanti-neurons-for-secure-access">
+              <ListItemIcon>
+                <VpnLockIcon />
+              </ListItemIcon>
+              <ListItemText primary="Neurons for Secure Access" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+          </List>
+        </Collapse>
+        <ListItemButton onClick={handleFonleapClick}>
+          <ListItemIcon>
+            <SmartphoneIcon />
+          </ListItemIcon>
+          <ListItemText primary="Fonleap"
+            secondary={
+              <React.Fragment>
+                At Fonleap, Mark worked on the PocketVM and Storleap products from 2011 to 2014.
+              </React.Fragment>
+            }
+          />
+          {fonleapOpen ? <ExpandLessIcon /> : <ExpandMoreIcon />}
+        </ListItemButton>
+        <Collapse in={fonleapOpen} timeout="auto" unmountOnExit>
+          <List>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://www.youtube.com/watch?v=IXlkCOsuHE8">
+              <ListItemIcon>
+                <DevicesIcon />
+              </ListItemIcon>
+              <ListItemText primary="PocketVM" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20141221212448/http://www.storleap.com/">
+              <ListItemIcon>
+                <CloudSyncIcon />
+              </ListItemIcon>
+              <ListItemText primary="Storleap" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+            <ListItemButton sx={{ pl: 10 }} component="a" href="https://web.archive.org/web/20130725110219/http://www.ideaspace.cam.ac.uk/members/people/Mark-Hogan?IArticle=2219">
+              <ListItemIcon>
+                <LightbulbIcon />
+              </ListItemIcon>
+              <ListItemText primary="ideaSpace" primaryTypographyProps={linkTypographyProps} />
+            </ListItemButton>
+          </List>
+        </Collapse>
         <ListItemButton component="a" href="https://web.archive.org/web/20220529112217/https://www.g400.co.uk/cantabits/">
           <ListItemIcon>
             <ArticleIcon />
