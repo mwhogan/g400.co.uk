@@ -147,12 +147,6 @@ export default function MainLinks() {
             </ListItemButton>
           </List>
         </Collapse>
-        <ListItemButton component="a" href="https://web.archive.org/web/20220529112217/https://www.g400.co.uk/cantabits/">
-          <ListItemIcon>
-            <ArticleIcon />
-          </ListItemIcon>
-          <ListItemText primary="Cantabits" primaryTypographyProps={linkTypographyProps} />
-        </ListItemButton>
         <ListItemButton component="a" href="https://g400.co.uk/cam/">
           <ListItemIcon>
             <SchoolIcon />
