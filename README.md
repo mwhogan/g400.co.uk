@@ -14,7 +14,7 @@ npm start
 
 To build this, use:
 ```sh
-npm run build
+make build
 ```
 The result will appear in a directory called `build`. The contents of that directory is suitable for deployment.
 

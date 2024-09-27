@@ -1,0 +1,3 @@
+[submodule "ai-training-opt-out"]
+	path = ai-training-opt-out
+	url = https://github.com/healsdata/ai-training-opt-out.git
